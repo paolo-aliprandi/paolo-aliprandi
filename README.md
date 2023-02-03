@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iPaoloTM, I'm student at the University of trento, M.Sc. in Computer Science
 - 👀 I’m interested in Computer Science, Innovation, Computer Vision and e-Health
-- 🌱 I’m currently learning DS
+- 🌱 I’m currently learning DS and probably training at the gym
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me contacts [coming soon]
 
