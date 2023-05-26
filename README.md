@@ -1,6 +1,23 @@
 # Hi there! 👋
 My name is Paolo, and I'm a Computer Science student with a passion for innovation, computer vision, data science for sports and e-Health. In this README file, you'll find some information about me, my work, and some of my favorite projects.
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/paolo-aliprandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/iPaoloTM/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:paolo.alipro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a> 
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api?username=iPaoloTM&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=iPaoloTM&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css,scss,php&layout=compact&langs_count=6&exclude_repo=obsidian" height=200></a>
+</p>
+
 ## About Me
 Usually I'm a student with experience in algorithms and data visualization. My background in computer science has helped me develop a unique perspective on the wide world of information engineering. I'm always eager to learn more and take on new challenges, in fact I'll be soon an exchange student at Tallinn University of technology.
 
