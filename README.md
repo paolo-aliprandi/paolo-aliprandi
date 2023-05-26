@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is Paolo, and I'm a Computer Science student with a passion for innovation, computer vision, data science for sports and e-Health. In this README file, you'll find some information about me, my work, and some of my favorite projects.
+I'm Paolo, and I'm a Computer Science student with a passion for innovation, computer vision, data science for sports and e-Health. In this README file, you'll find some information about me, my work, and some of my favorite projects.
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/paolo-aliprandi/">
