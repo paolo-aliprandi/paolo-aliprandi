@@ -22,9 +22,9 @@ I'm Paolo, and I'm a Computer Science student with a passion for innovation, com
 Usually I'm a student with experience in algorithms and data visualization. My background in computer science has helped me develop a unique perspective on the wide world of information engineering. I'm always eager to learn more and take on new challenges, in fact I'll be soon an exchange student at Tallinn University of technology.
 
 ## My Work
-One of my current projects is Squat analysis with Motion tracking, which is focused on compute the goodnes of a squat movement by computing several parameters, including trajectory, back inclination and fatigue. The project is being built using python, ZED SDK and you will be soon able to check it out here.
+One of my current projects is Squat analysis with Motion tracking, which is focused on compute the goodnes of a squat movement by computing several parameters, including trajectory, back inclination and fatigue. The project is being built using python, ZED cameras and Optitrack MOCAP system. You can check it out here: [Squat project](https://github.com/iPaoloTM/Squat-Analysis-CVproj/)
 
-Another project that I'm proud of is visualising optical flow, which has been a by-product of a University project on Outpainting. The project was built using python and the RAFT implementation on PyTorch, and you can check it out https://github.com/iPaoloTM/VisualisingRAFTOpticalFlow.
+Another project that I'm proud of is visualising optical flow, which has been a by-product of a University project on Outpainting. The project was built using python and the RAFT implementation on PyTorch, and you can check it out here: [RAFT Optical Flow](https://github.com/iPaoloTM/VisualisingRAFTOpticalFlow).
 
 ## My Interests
 When I'm not coding, you can find me at the gym, lifting heavy circle. I also enjoy reading.
