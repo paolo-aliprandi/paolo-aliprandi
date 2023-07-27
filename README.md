@@ -26,7 +26,7 @@ Another project that I'm proud of is visualising optical flow, which has been a 
 When I'm not coding, you can find me at the gym, lifting heavy circle. I also enjoy reading.
 
 ## Contact Me
-Feel free to reach out to me, I'm always happy to chat about politics and turtles.
+Feel free to reach out to me, I'm always happy to chat about politics and turtles!
 
 Thanks for stopping by, and I hope to hear from you soon!
 
