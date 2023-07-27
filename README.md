@@ -37,10 +37,6 @@ Thanks for stopping by, and I hope to hear from you soon!
 </p>
 
 
-## Acknowledgments
-
-Clearly, this page has been generated with GPT-3 to test how good its work can be ;)
-
 <!---
 iPaoloTM/iPaoloTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
