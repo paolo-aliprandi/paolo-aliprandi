@@ -115,12 +115,3 @@ Feel free to reach out if you're looking for a Startup or Developer collaborator
 
 - **Email**: [paoloalipro@gmail.com](mailto:paoloalipro@gmail.com)
 - **Linkedin**: [Paolo Aliprandi](linkedin.com/in/paolo-aliprandi)
-
-<p align='center'>
- <a href="https://www.linkedin.com/in/paolo-aliprandi/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
- </a>&nbsp;&nbsp;
- <a href="mailto:paolo.alipro@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
- </a>
-</p>
