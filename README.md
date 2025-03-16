@@ -99,7 +99,7 @@ Here’s an updated version of your template based on the details from your CV:
 
 ## 📂 Industrial Experience
 
-> **REPLY**: Software Engineer (Sept. 2022 – Sept. 2024) 🏢
+> **REPLY**: Software Engineer (March 2024 – Today) 🏢
 - Proposed and developed a solution to retrieve relevant information using LLM ReAct + RAG, improving response time by 31% and accuracy by 26% for an Insurance Company.
 - Implemented and leveraged RAG tools, reducing query processing time by 62%, enhancing overall user experience.
 - Developed a production-ready web application using Python Flask with microservices architecture and AngularJS frontend, ensuring a scalable and responsive design.
@@ -114,7 +114,7 @@ Here’s an updated version of your template based on the details from your CV:
 Feel free to reach out if you're looking for a Startup or Developer collaborator! I'm always happy to chat about technology, AI, politics and turtles!
 
 - **Email**: [paoloalipro@gmail.com](mailto:paoloalipro@gmail.com)
-- **Linkedin**: [Paolo Aliprandi](linkedin.com/in/paolo-aliprandi) fill it with this information: # Hi there! 🥸
+- **Linkedin**: [Paolo Aliprandi](linkedin.com/in/paolo-aliprandi)
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/paolo-aliprandi/">
