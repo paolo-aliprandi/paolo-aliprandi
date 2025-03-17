@@ -93,10 +93,6 @@ Here are some of the exciting projects I’ve been working on:
  </tr>
 </table>
 
-Here’s an updated version of your template based on the details from your CV:
-
----
-
 ## 📂 Industrial Experience
 
 > **REPLY**: Software Engineer (March 2024 – Today) 🏢
