@@ -14,9 +14,9 @@
 </p>
 
 ---
-🎓 Graduated with honors in the Master's Degree in Computer Science at the University of Trento, Italy. 🇮🇹
+💻 Working on Copilot at MSFT 
 
-🔍As part of my academic path, I dived deep into Deep Learning and Computer Vision, where I developed a project with related peer-reviewed paper on an automatic system for evaluating the Squat correctness.
+🔍As part of my academic path, I dived deep into LLM and Agentic systems. This allowed me to translate my thesis into a Working AI App for one of the biggest Fortune 500 Company.
 
 🌿 In my free time, I like to workout, read books and code some ideas of mine.
 
