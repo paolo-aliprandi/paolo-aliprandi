@@ -25,7 +25,7 @@
 
 <div align="left">
  <a href="https://github.com/paolo-aliprandi">
-   <img src="https://github-readme-stats.vercel.app/api?username=paolo-aliprandi&theme=shadow_blue&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&" alt="Zehra's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=paolo-aliprandi&theme=shadow_blue&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&" alt="Paolo's GitHub stats" />
  </a>&nbsp;&nbsp;
  <a href="https://github.com/paolo-aliprandi">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paolo-aliprandi&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,dockerfile,typescript&theme=shadow_blue&show_icons=true&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
